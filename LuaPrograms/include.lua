@@ -1,0 +1,1 @@
+--dofile("ds18b20-func.lua")
